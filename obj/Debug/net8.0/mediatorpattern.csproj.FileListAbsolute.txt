@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\mediatorpattern\bin\Debug\net8.0\mediatorpattern.exe
+C:\Users\user\Desktop\mediatorpattern\bin\Debug\net8.0\mediatorpattern.deps.json
+C:\Users\user\Desktop\mediatorpattern\bin\Debug\net8.0\mediatorpattern.runtimeconfig.json
+C:\Users\user\Desktop\mediatorpattern\bin\Debug\net8.0\mediatorpattern.dll
+C:\Users\user\Desktop\mediatorpattern\bin\Debug\net8.0\mediatorpattern.pdb
+C:\Users\user\Desktop\mediatorpattern\obj\Debug\net8.0\mediatorpattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\mediatorpattern\obj\Debug\net8.0\mediatorpattern.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\mediatorpattern\obj\Debug\net8.0\mediatorpattern.AssemblyInfo.cs
+C:\Users\user\Desktop\mediatorpattern\obj\Debug\net8.0\mediatorpattern.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mediatorpattern\obj\Debug\net8.0\mediatorpattern.dll
+C:\Users\user\Desktop\mediatorpattern\obj\Debug\net8.0\refint\mediatorpattern.dll
+C:\Users\user\Desktop\mediatorpattern\obj\Debug\net8.0\mediatorpattern.pdb
+C:\Users\user\Desktop\mediatorpattern\obj\Debug\net8.0\mediatorpattern.genruntimeconfig.cache
+C:\Users\user\Desktop\mediatorpattern\obj\Debug\net8.0\ref\mediatorpattern.dll
